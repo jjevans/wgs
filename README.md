@@ -3,7 +3,7 @@
 Implementation of variant caller for Whole Genome Sequencing.</br></br>
 
 **Highlights:**</br>
-1.  Multiple implementations, focus to lsf_variant_multifastq.py</br>
+1.  Multiple implementations, representative version in lsf_variant_multifastq.py</br>
 2.  Python library for direct binding to LSF job runner.  No system calls made in process.</br>
 3.  Scala implemented Broad Cancer Group tool 'Queue' to manage variant calling.</br>
 </br>
