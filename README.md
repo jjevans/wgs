@@ -14,7 +14,7 @@ The mature application for alignment and variant calling is in the bin directory
 **usage:** lsf_variant_multifastq.py config</br></br>
 
 **arguments:** pair formatted configuration file; see file variant.conf in the conf directory</br>
-
+</br></br>
 **Python for LSF**</br>
 </br></br>
 See library in lib directory called lsf_util.py</br></br>
